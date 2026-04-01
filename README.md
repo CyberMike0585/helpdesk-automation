@@ -11,7 +11,11 @@ This project was built to simulate common tasks performed in a real IT helpdesk 
 The goal was to move beyond theory and practice real system administration tasks directly from the command line. The scripts automate repetitive helpdesk responsibilities such as creating users, disabling accounts, and checking system health.
 
 This project was completed in a personal homelab running RHEL on Proxmox.
+## Project Context
 
+This project was designed to simulate tasks typically handled by an entry-level IT support or helpdesk technician in a Linux-based environment.
+
+All scripts were tested on a RHEL virtual machine running in a Proxmox homelab.
 ---
 
 ## What This Project Does
