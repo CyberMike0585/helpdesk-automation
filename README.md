@@ -64,6 +64,60 @@ This type of monitoring is useful for troubleshooting and maintaining system sta
 
 ---
 
-## How to Use
+---
 
-Make scripts executable:
+## What I Learned
+Working on this project helped me improve my understanding of:
+
+- Managing Linux users and permissions
+- Automating tasks using Bash scripting
+- Monitoring system performance and services
+- Working with logs for troubleshooting
+- Navigating and managing a Linux system entirely from the terminal
+
+---
+
+## Future Improvements
+- Add alerting for high CPU or disk usage
+- Improve logging format and error handling
+- Add a menu-based interface for easier interaction
+- Integrate scheduling (cron) for automated health checks
+
+---
+
+## Screenshots
+
+### Hostname Setup
+![Hostname](screenshots/01-hostname.png)
+
+### Script Permissions
+![Permissions](screenshots/02-Scripts-prems.png)
+
+### User Onboarding
+![Onboarding](screenshots/03-Onboarding-sh.png)
+
+### Onboarding Verification
+![Verification](screenshots/04-Verification of onboarding-sh.png)
+
+### Health Check Script
+![Health Check](screenshots/05-healthcheck-sh.png)
+
+### Health Check Output
+![Health Output](screenshots/06-Healthcheck-Verification.png)
+
+### Cron Job Setup
+![Cron](screenshots/07-Crontab healthcheck.png)
+
+### Cron Verification
+![Cron Verify](screenshots/08-Crontabhealthcheck verifiy.png)
+
+### Offboarding Script
+![Offboarding](screenshots/09-offboard.sh.png)
+
+### Offboarding Verification
+![Offboarding Verify](screenshots/10-offboard-sh verification.png)
+
+---
+
+## Author
+Michael Gilles
