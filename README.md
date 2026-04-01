@@ -123,5 +123,11 @@ Working on this project helped me improve my understanding of:
 
 ---
 
+## Why This Project Matters
+
+This project demonstrates hands-on experience with Linux system administration tasks commonly required in entry-level IT support roles.
+
+
+
 ## Author
 Michael Gilles
